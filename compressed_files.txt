@@ -1,0 +1,4 @@
+recovery.img.xz
+boot.img.xz
+bootRE/boot.elf.xz
+modem.img.xz
